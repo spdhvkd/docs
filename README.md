@@ -1,4 +1,4 @@
-# docs
+# study
 
  __description__
 
